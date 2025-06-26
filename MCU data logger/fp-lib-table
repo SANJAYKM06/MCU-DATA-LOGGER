@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ATMEGA FOOTPRINT")(type "KiCad")(uri "C:/Users/Starl/Downloads/kicad files/ATMEGA328PAU/ATMEGA FOOTPRINT")(options "")(descr ""))
+  (lib (name "FOOTPRINT")(type "KiCad")(uri "C:/Users/Starl/Downloads/kicad files/DS1337S+/FOOTPRINT")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/Starl/Downloads/kicad files/DS1337S+/FOOTPRINT/Library.pretty")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "C:/Users/Starl/Downloads/kicad files/solar cell/logo")(options "")(descr ""))
+  (lib (name "ATMEGA328P-AU (1)")(type "KiCad")(uri "C:/Users/Starl/Downloads/kicad files/atmega 32 au/ATMEGA328P-AU (1)")(options "")(descr ""))
+)
